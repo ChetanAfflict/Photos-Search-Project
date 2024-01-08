@@ -1,0 +1,9 @@
+{
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react-scripts": "^5.0.1",
+    "react-spinners": "^0.13.8",
+    "unsplash-js": "^7.0.19"
+  }
+}

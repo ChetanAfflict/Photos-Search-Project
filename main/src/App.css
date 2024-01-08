@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+}
+
+div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+img {
+  margin: 5px;
+}
+
+.loader-container {
+  text-align: center;
+}
